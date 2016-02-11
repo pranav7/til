@@ -122,6 +122,7 @@ _329 TILs and counting..._
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
+- [Check Free Disk Space](linux/check-free-disk-space.md)
 
 ### Mac
 
