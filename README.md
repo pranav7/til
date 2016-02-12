@@ -123,6 +123,7 @@ _329 TILs and counting..._
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 - [Check Free Disk Space](linux/checking-free-disk-space.md)
+- [Check Timezone](/linux/timezone.md)
 
 ### Mac
 
