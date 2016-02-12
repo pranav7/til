@@ -14,3 +14,8 @@ $ date
 Fri Feb 12 06:24:22 EST 2016
 ```
 
+To change the timezone run the following command:
+```bash
+dpkg-reconfigure tzdata
+```
+
